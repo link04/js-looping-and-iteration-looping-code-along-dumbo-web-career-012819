@@ -1,0 +1,4 @@
+
+const printBadges = (array) => {
+  
+}
