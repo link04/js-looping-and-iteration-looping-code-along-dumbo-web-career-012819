@@ -7,5 +7,7 @@ const printBadges = (array) => {
 }
 
 const tailsNeverFails = () => {
-  
+  while(){
+    
+  }
 }
