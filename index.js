@@ -5,3 +5,7 @@ const printBadges = (array) => {
   } 
   return array;
 }
+
+const tailsNeverFails = () => {
+  
+}
