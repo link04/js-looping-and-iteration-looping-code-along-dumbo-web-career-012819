@@ -11,5 +11,5 @@ const tailsNeverFails = () => {
   while(Math.random() >= 0.5){
     tails++
   }
-  console.log()
+  console.log(`You got ${tails} tails in a row!`)
 }
